@@ -1,4 +1,4 @@
-<img width="1000" height="" src="https://drive.google.com/file/d/13mWD5Q-NWSVSPDP1LKzU7kCbHKFZ_Auk/view?usp=sharing">
+<img width="1000" height="" src="https://i.ibb.co/f2BvXyj/Linked-In-Banner.png">
 
 ## Hi <g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png">😊</g-emoji> I am <span style="color:#6ee5f5 ">Rakib</span>
 
