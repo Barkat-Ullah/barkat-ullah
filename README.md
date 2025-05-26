@@ -79,25 +79,34 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack & PER
 
 ## 🚀 Featured Projects
 
-### 1. Review Hub
+### 1. Review Hub ( Team Project )
 A collaborative platform for product reviews and recommendations. Users can create accounts, post reviews, follow other reviewers, and discover products across various categories. The platform includes features like verified purchase badges, a helpful vote system, and personalized recommendations.
 
 [![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://review-hub-ruby.vercel.app/](https://review-hub-ruby.vercel.app/))
 [![GitHub Client Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/review-hub-client)
-[![GitHub Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/review-hub-servers)
+[![GitHub Server Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/review-hub-servers)
 
-### 2. Make Your Assignment
-An online assignment creation and management platform.
+### 2. Fitness Studio ( Team Project )
+A comprehensive fitness management platform for gym owners and members. The application includes membership management, class scheduling, trainer profiles, and progress tracking. It also features a nutrition planner and workout library.
 
-[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://obnoxious-chickens.surge.sh/)
-[![GitHub Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/online-group-study-client-site)
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://fitness-studio.surge.sh](https://fitness-studio.surge.sh))
+[![GitHub Client Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Jubayer-Ahmed-Sajid/Fitness-Studio-client-side)
+[![GitHub Server Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Jubayer-Ahmed-Sajid/Fitness-Studio-server-site)
 
-### 3. Social Platform
+
+### 3. Social Platform ( Individual )
 A comprehensive social networking platform.
 
 [![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://online-meet-platform.web.app/)
-[![GitHub Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/social-platform-client)
+[![GitHub Client Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/review-hub-client)
+[![GitHub Server Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/review-hub-servers)
 
+### 4. Tutor Management Platform (Individual)
+An online platform connecting students with tutors. The application facilitates scheduling, payment processing, and virtual classroom sessions. It includes features for tutor profiles, student dashboards, and administrative oversight.
+
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tutorlink-ashy.vercel.app)
+[![GitHub Client Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/tutorlink-client)
+[![GitHub Server Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/tutorlink-backend)
 
 ---
 
