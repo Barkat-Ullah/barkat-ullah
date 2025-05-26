@@ -8,11 +8,11 @@
 
 ## 💫 About Me
 
-I'm a passionate **Full Stack Developer** specializing in the **MERN stack** with extensive experience in modern web technologies. I love building scalable applications and solving complex problems with elegant solutions.
+I'm a passionate **Full Stack Developer** specializing in the **MERN stack & PERN stack** with extensive experience in modern web technologies. I love building scalable applications and solving complex problems with elegant solutions.
 
 - 🔭 I'm currently working on **Next.js** projects with **TypeScript**
 - 🌱 I'm currently learning **Advanced Backend Architecture** and **Cloud Infrastructure**
-- 💬 Ask me about **React, Next.js, Node.js, Database Design, or System Architecture**
+- 💬 Ask me about **React, Next.js, Node.js, Express.js, Prisma Database Design, or System Architecture**
 - 📫 How to reach me: [barkatullah585464@gmail.com](mailto:barkatullah585464@gmail.com)
 - ⚡ Fun fact: I once debugged a production issue while hiking in the mountains!
 
@@ -80,10 +80,11 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack** wit
 ## 🚀 Featured Projects
 
 ### 1. Review Hub
-A food authentication and discovery platform.
+A collaborative platform for product reviews and recommendations. Users can create accounts, post reviews, follow other reviewers, and discover products across various categories. The platform includes features like verified purchase badges, a helpful vote system, and personalized recommendations.
 
-[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://food-auth-ca6b3.web.app/](https://reviewhub-eight.vercel.app/))
-[![GitHub Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/favourite-food-client)
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://review-hub-ruby.vercel.app/](https://review-hub-ruby.vercel.app/))
+[![GitHub Client Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/review-hub-client)
+[![GitHub Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/review-hub-servers)
 
 ### 2. Make Your Assignment
 An online assignment creation and management platform.
