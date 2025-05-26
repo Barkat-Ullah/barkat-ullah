@@ -66,10 +66,10 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack & PER
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+  <a href="https://twitter.com/BarkatUlla15395" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/barkat-ullah-1013b82a3" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Barkat-Ullah" target="_blank">
