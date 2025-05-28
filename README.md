@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/TDhfshhn/Black-Minimal-Business-Personal-Profile-Linkedin-Banner.png" alt="Barkat Ullah LinkedIn Banner" width="100%" />
+  <img src="https://res.cloudinary.com/dqvxeyzat/image/upload/v1748440710/Black_Minimal_Business_Personal_Profile_Linkedin_Banner_lffeqc.png" alt="Barkat Ullah LinkedIn Banner" width="100%" />
 </div>
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Barkat Ullah
