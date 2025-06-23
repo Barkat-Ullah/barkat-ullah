@@ -82,21 +82,21 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack & PER
 ## 1. Find Doctor with Novena (Individual)
 A full-stack doctor management platform built with Node.js, Express, TypeScript, PostgreSQL (Prisma ORM), and Next.js. It supports roles for Admin, Doctor, and Patient, enabling appointments, prescriptions, reviews, and real-time video consultation using WebRTC (Agora).
 
-[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://doctor-management-novena.vercel.app](https://doctor-management-novena.vercel.app))
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]((https://doctor-management-novena.vercel.app))
 [![GitHub Client Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/doctor-management-system-client)
 [![GitHub Server Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/doctor-management-backend)
 
 ### 2. Review Hub ( Team Project )
 A collaborative platform for product reviews and recommendations. Users can create accounts, post reviews, follow other reviewers, and discover products across various categories. The platform includes features like verified purchase badges, a helpful vote system, and personalized recommendations.
 
-[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://review-hub-ruby.vercel.app/](https://review-hub-ruby.vercel.app/))
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]((https://review-hub-ruby.vercel.app))
 [![GitHub Client Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/review-hub-client)
 [![GitHub Server Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/review-hub-servers)
 
 ### 3. Fitness Studio ( Team Project )
 A comprehensive fitness management platform for gym owners and members. The application includes membership management, class scheduling, trainer profiles, and progress tracking. It also features a nutrition planner and workout library.
 
-[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://fitness-studio.surge.sh](https://fitness-studio.surge.sh))
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]((https://fitness-studio.surge.sh))
 [![GitHub Client Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Jubayer-Ahmed-Sajid/Fitness-Studio-client-side)
 [![GitHub Server Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Jubayer-Ahmed-Sajid/Fitness-Studio-server-site)
 
