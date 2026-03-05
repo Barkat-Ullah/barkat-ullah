@@ -2,11 +2,6 @@
   <img src="https://res.cloudinary.com/dqvxeyzat/image/upload/v1748440710/Black_Minimal_Business_Personal_Profile_Linkedin_Banner_lffeqc.png" alt="Barkat Ullah Banner" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Barkat-Ullah&color=0DADEA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Barkat-Ullah?style=for-the-badge&color=0DADEA&labelColor=1a1a2e" alt="Followers" />
-</div>
-
 <br/>
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Barkat Ullah
