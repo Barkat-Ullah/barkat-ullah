@@ -1,20 +1,35 @@
+
 <div align="center">
-  <img src="https://res.cloudinary.com/dqvxeyzat/image/upload/v1748440710/Black_Minimal_Business_Personal_Profile_Linkedin_Banner_lffeqc.png" alt="Barkat Ullah LinkedIn Banner" width="100%" />
+  <img src="https://res.cloudinary.com/dqvxeyzat/image/upload/v1748440710/Black_Minimal_Business_Personal_Profile_Linkedin_Banner_lffeqc.png" alt="Barkat Ullah Banner" width="100%" />
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Barkat-Ullah&color=0DADEA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Barkat-Ullah?style=for-the-badge&color=0DADEA&labelColor=1a1a2e" alt="Followers" />
+</div>
+
+<br/>
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Barkat Ullah
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0DADEA&center=false&vCenter=false&width=435&lines=Full+Stack+Developer;MERN+Specialist;TypeScript+Enthusiast;Database+Expert)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0DADEA&width=500&lines=Full+Stack+Developer+%7C+MERN+%26+PERN;Backend+Architecture+Enthusiast;TypeScript+%2B+Prisma+Specialist;Building+Scalable+Real-World+Systems" alt="Typing SVG" />
+</a>
+
+---
 
 ## 💫 About Me
 
-I'm a passionate **Full Stack Developer** specializing in the **MERN stack & PERN stack** with extensive experience in modern web technologies. I love building scalable applications and solving complex problems with elegant solutions.
+I'm a passionate **Full Stack Developer** specializing in **MERN & PERN stacks** with deep experience in backend architecture, database design, and building production-ready systems.
 
-- 🔭 I'm currently working on **Next.js** projects with **TypeScript**
-- 🌱 I'm currently learning **Advanced Backend Architecture** and **Cloud Infrastructure**
-- 💬 Ask me about **React, Next.js, Node.js, Express.js, Prisma Database Design, or System Architecture**
-- 📫 How to reach me: [barkatullah585464@gmail.com](mailto:barkatullah585464@gmail.com)
+- 🏠 Currently building a **Smart Home Management System** — Node.js, Express, TypeScript, Prisma, MongoDB, Redis, BullMQ, Socket.io
+- 🔭 Exploring **System Design**, **Microservices**, and **Cloud Infrastructure**
+- 🧠 Strong in **Prisma schema design**, **REST API architecture**, and **real-time systems**
+- 💬 Ask me about **React, Next.js, Node.js, Express.js, Prisma, System Architecture**
+- 📫 Reach me at: [barkatullah585464@gmail.com](mailto:barkatullah585464@gmail.com)
 - ⚡ Fun fact: I once debugged a production issue while hiking in the mountains!
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -33,80 +48,122 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack & PER
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/-BullMQ-FF6B6B?style=for-the-badge&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
 ### Database & ORM
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
-### Tools & Validation
-![Zod](https://img.shields.io/badge/-Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Zod](https://img.shields.io/badge/-Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 </div>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Barkat-Ullah&show_icons=true&theme=tokyonight" alt="Barkat's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Barkat-Ullah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Barkat's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barkat-Ullah&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Barkat-Ullah&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Barkat-Ullah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barkat-Ullah&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Barkat-Ullah&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+### 1. 🏠 Smart Home Management System *(In Progress)*
+A full-stack home management platform covering family care, health tracking, finance, home automation, and daily planning. Built with a modular backend architecture supporting real-time features and background job processing.
+
+**Tech:** Node.js · Express · TypeScript · Prisma · MongoDB · Redis · BullMQ · Socket.io · Stripe · FCM
+
+> Features: CCTV streaming, AC smart control, medicine reminders, meal planning, financial tracking, support feed, family & child management
+
+---
+
+### 2. 🩺 Find Doctor with Novena *(Individual)*
+A full-stack doctor management platform with roles for Admin, Doctor, and Patient. Supports appointments, prescriptions, reviews, and real-time video consultation using WebRTC (Agora).
+
+**Tech:** Node.js · Express · TypeScript · PostgreSQL · Prisma · Next.js · WebRTC
+
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://doctor-management-novena.vercel.app)
+[![Client](https://img.shields.io/badge/-Client_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/doctor-management-system-client)
+[![Server](https://img.shields.io/badge/-Server_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/doctor-management-backend)
+
+---
+
+### 3. ⭐ Review Hub *(Team Project)*
+A collaborative product review platform with verified purchase badges, helpful vote system, and personalized recommendations.
+
+**Tech:** React · Node.js · Express · MongoDB · TypeScript
+
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://review-hub-ruby.vercel.app)
+[![Client](https://img.shields.io/badge/-Client_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/review-hub-client)
+[![Server](https://img.shields.io/badge/-Server_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/review-hub-servers)
+
+---
+
+### 4. 💪 Fitness Studio *(Team Project)*
+A comprehensive fitness management platform with membership management, class scheduling, trainer profiles, nutrition planner, and workout library.
+
+**Tech:** React · Node.js · MongoDB
+
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fitness-studio.surge.sh)
+[![Client](https://img.shields.io/badge/-Client_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Jubayer-Ahmed-Sajid/Fitness-Studio-client-side)
+[![Server](https://img.shields.io/badge/-Server_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Jubayer-Ahmed-Sajid/Fitness-Studio-server-site)
+
+---
+
+### 5. 📚 Tutor Management Platform *(Individual)*
+An online platform connecting students with tutors — scheduling, payment processing, virtual classrooms, tutor profiles, and student dashboards.
+
+**Tech:** React · Node.js · Express · MongoDB · TypeScript
+
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tutorlink-ashy.vercel.app)
+[![Client](https://img.shields.io/badge/-Client_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/tutorlink-client)
+[![Server](https://img.shields.io/badge/-Server_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/tutorlink-backend)
+
+---
 
 ## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://twitter.com/BarkatUlla15395" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/barkat-ullah-1013b82a3" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/Barkat-Ullah" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:barkatullah585464@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
-## 🚀 Featured Projects
+<br/>
 
-## 1. Find Doctor with Novena (Individual)
-A full-stack doctor management platform built with Node.js, Express, TypeScript, PostgreSQL (Prisma ORM), and Next.js. It supports roles for Admin, Doctor, and Patient, enabling appointments, prescriptions, reviews, and real-time video consultation using WebRTC (Agora).
-
-[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://doctor-management-novena.vercel.app)
-[![GitHub Client Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/doctor-management-system-client)
-[![GitHub Server Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/doctor-management-backend)
-
-### 2. Review Hub ( Team Project )
-A collaborative platform for product reviews and recommendations. Users can create accounts, post reviews, follow other reviewers, and discover products across various categories. The platform includes features like verified purchase badges, a helpful vote system, and personalized recommendations.
-
-[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://review-hub-ruby.vercel.app)
-[![GitHub Client Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/review-hub-client)
-[![GitHub Server Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/review-hub-servers)
-
-### 3. Fitness Studio ( Team Project )
-A comprehensive fitness management platform for gym owners and members. The application includes membership management, class scheduling, trainer profiles, and progress tracking. It also features a nutrition planner and workout library.
-
-[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fitness-studio.surge.sh)
-[![GitHub Client Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Jubayer-Ahmed-Sajid/Fitness-Studio-client-side)
-[![GitHub Server Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Jubayer-Ahmed-Sajid/Fitness-Studio-server-site)
-
-
-### 4. Tutor Management Platform (Individual)
-An online platform connecting students with tutors. The application facilitates scheduling, payment processing, and virtual classroom sessions. It includes features for tutor profiles, student dashboards, and administrative oversight.
-
-[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tutorlink-ashy.vercel.app)
-[![GitHub Client Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/tutorlink-client)
-[![GitHub Server Repo](https://img.shields.io/badge/-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/tutorlink-backend)
-
----
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0DADEA&height=100&section=footer" />
+</div>
