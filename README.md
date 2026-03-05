@@ -102,28 +102,6 @@ A collaborative product review platform with verified purchase badges, helpful v
 
 ---
 
-### 4. 💪 Fitness Studio *(Team Project)*
-A comprehensive fitness management platform with membership management, class scheduling, trainer profiles, nutrition planner, and workout library.
-
-**Tech:** React · Node.js · MongoDB
-
-[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fitness-studio.surge.sh)
-[![Client](https://img.shields.io/badge/-Client_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Jubayer-Ahmed-Sajid/Fitness-Studio-client-side)
-[![Server](https://img.shields.io/badge/-Server_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Jubayer-Ahmed-Sajid/Fitness-Studio-server-site)
-
----
-
-### 5. 📚 Tutor Management Platform *(Individual)*
-An online platform connecting students with tutors — scheduling, payment processing, virtual classrooms, tutor profiles, and student dashboards.
-
-**Tech:** React · Node.js · Express · MongoDB · TypeScript
-
-[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tutorlink-ashy.vercel.app)
-[![Client](https://img.shields.io/badge/-Client_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/tutorlink-client)
-[![Server](https://img.shields.io/badge/-Server_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/tutorlink-backend)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
