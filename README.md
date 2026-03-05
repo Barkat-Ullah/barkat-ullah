@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://res.cloudinary.com/dqvxeyzat/image/upload/v1748440710/Black_Minimal_Business_Personal_Profile_Linkedin_Banner_lffeqc.png" alt="Barkat Ullah Banner" width="100%" />
 </div>
@@ -20,14 +19,15 @@
 
 ## 💫 About Me
 
-I'm a passionate **Full Stack Developer** specializing in **MERN & PERN stacks** with deep experience in backend architecture, database design, and building production-ready systems.
+I'm a **Full Stack Developer** with a strong focus on backend architecture and scalable system design. I specialize in building production-ready applications using the **MERN & PERN stacks**, with deep expertise in **TypeScript**, **Prisma**, and **REST API design**.
 
-- 🏠 Currently building a **Smart Home Management System** — Node.js, Express, TypeScript, Prisma, MongoDB, Redis, BullMQ, Socket.io
-- 🔭 Exploring **System Design**, **Microservices**, and **Cloud Infrastructure**
-- 🧠 Strong in **Prisma schema design**, **REST API architecture**, and **real-time systems**
-- 💬 Ask me about **React, Next.js, Node.js, Express.js, Prisma, System Architecture**
-- 📫 Reach me at: [barkatullah585464@gmail.com](mailto:barkatullah585464@gmail.com)
-- ⚡ Fun fact: I once debugged a production issue while hiking in the mountains!
+I enjoy solving real-world problems — from designing complex database schemas to implementing background job systems, real-time features, and payment integrations. I care about writing clean, maintainable code and building systems that can grow.
+
+- 🏠 Currently building a **Smart Home Management System** — a complex full-stack platform covering family care, health, finance, home automation, and daily planning
+- 🧠 Strong in **database schema design**, **modular backend architecture**, and **real-time systems**
+- 📈 Always pushing toward better **system design**, **performance optimization**, and **cloud deployment**
+- 🤝 Open to **collaboration**, **freelance projects**, and **full-time opportunities**
+- 📫 [barkatullah585464@gmail.com](mailto:barkatullah585464@gmail.com)
 
 ---
 
@@ -73,23 +73,6 @@ I'm a passionate **Full Stack Developer** specializing in **MERN & PERN stacks**
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Barkat-Ullah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Barkat's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barkat-Ullah&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Barkat-Ullah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Barkat-Ullah&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 ### 1. 🏠 Smart Home Management System *(In Progress)*
@@ -99,6 +82,7 @@ A full-stack home management platform covering family care, health tracking, fin
 
 > Features: CCTV streaming, AC smart control, medicine reminders, meal planning, financial tracking, support feed, family & child management
 
+[![Server](https://img.shields.io/badge/-Server_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/smart-home-management-server)
 ---
 
 ### 2. 🩺 Find Doctor with Novena *(Individual)*
@@ -142,6 +126,23 @@ An online platform connecting students with tutors — scheduling, payment proce
 [![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tutorlink-ashy.vercel.app)
 [![Client](https://img.shields.io/badge/-Client_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/tutorlink-client)
 [![Server](https://img.shields.io/badge/-Server_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/tutorlink-backend)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Barkat-Ullah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Barkat's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barkat-Ullah&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Barkat-Ullah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Barkat-Ullah&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
 
 ---
 
