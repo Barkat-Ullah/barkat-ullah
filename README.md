@@ -105,12 +105,12 @@ A collaborative product review platform with verified purchase badges, helpful v
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Barkat-Ullah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Barkat's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barkat-Ullah&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Barkat-Ullah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Barkat-Ullah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Barkat-Ullah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Barkat's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barkat-Ullah&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
