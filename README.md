@@ -80,25 +80,25 @@ A full-stack home management platform covering family care, health tracking, fin
 [![Server](https://img.shields.io/badge/-Server_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/smart-home-management-server)
 ---
 
-### 2. 🩺 Find Doctor with Novena *(Individual)*
-A full-stack doctor management platform with roles for Admin, Doctor, and Patient. Supports appointments, prescriptions, reviews, and real-time video consultation using WebRTC (Agora).
+### 2. ⚽ LeagueCore — Tournament Management System *(Individual)*
+LeagueCore is a comprehensive Soccer Tournament Management System designed for competitive leagues at all age levels. The platform enables admins to create and manage multi-division tournaments across three competitive stages (Proving, Crown, Royal).
 
-**Tech:** Node.js · Express · TypeScript · PostgreSQL · Prisma · Next.js · WebRTC
+**Tech:** Node.js · Express · TypeScript · PostgreSQL · Prisma · Next.js · Websocket 
 
-[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://doctor-management-novena.vercel.app)
-[![Client](https://img.shields.io/badge/-Client_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/doctor-management-system-client)
-[![Server](https://img.shields.io/badge/-Server_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/doctor-management-backend)
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://platform.leaguecore.barkatullah.dev)
+[![Client](https://img.shields.io/badge/-Client_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/league-core-client)
+[![Server](https://img.shields.io/badge/-Server_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/leagueCore-server)
 
 ---
 
-### 3. ⭐ Review Hub *(Team Project)*
-A collaborative product review platform with verified purchase badges, helpful vote system, and personalized recommendations.
+### 3. ⭐ MedComply — Multi-Tenant Medical Platform *(Team Project)*
+A full-stack enterprise-grade multi-tenant platform for medical compliance management connecting patients, clinics, organizers, and administrators in a unified ecosystem with secure document handling, real-time communication, and intelligent scheduling.
 
-**Tech:** React · Node.js · Express · MongoDB · TypeScript
+**Tech:** Next.js · Node.js · Express · MongoDB · TypeScript
 
-[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://review-hub-ruby.vercel.app)
-[![Client](https://img.shields.io/badge/-Client_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/review-hub-client)
-[![Server](https://img.shields.io/badge/-Server_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/review-hub-servers)
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://platform.multiple.barkatullah.dev)
+[![Client](https://img.shields.io/badge/-Client_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/multi-tenat-platform-client)
+[![Server](https://img.shields.io/badge/-Server_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/multi-tenant-platform)
 
 ---
 
@@ -108,14 +108,14 @@ A collaborative product review platform with verified purchase badges, helpful v
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Barkat-Ullah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Barkat-Ullah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Barkat's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barkat-Ullah&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Barkat-Ullah&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
+</div> -->
 
 ---
 
