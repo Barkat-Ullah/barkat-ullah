@@ -18,8 +18,8 @@ I'm a **Full Stack Developer** with a strong focus on backend architecture and s
 
 I enjoy solving real-world problems — from designing complex database schemas to implementing background job systems, real-time features, and payment integrations. I care about writing clean, maintainable code and building systems that can grow.
 
-- 🏠 Currently building a **Smart Home Management System** — a complex full-stack platform covering family care, health, finance, home automation, and daily planning
-- 🧠 Strong in **database schema design**, **modular backend architecture**, and **real-time systems**
+- 🧠 Currently exploring the **core concepts of System Design** — focusing on scalability, reliability, distributed systems, and designing efficient architectures.
+- 💫 Strong in **database schema design**, **modular backend architecture**, and **real-time systems**
 - 📈 Always pushing toward better **system design**, **performance optimization**, and **cloud deployment**
 - 🤝 Open to **collaboration**, **freelance projects**, and **full-time opportunities**
 - 📫 [barkatullah585464@gmail.com](mailto:barkatullah585464@gmail.com)
@@ -70,14 +70,19 @@ I enjoy solving real-world problems — from designing complex database schemas 
 
 ## 🚀 Featured Projects
 
-### 1. 🏠 Smart Home Management System *(In Progress)*
-A full-stack home management platform covering family care, health tracking, finance, home automation, and daily planning. Built with a modular backend architecture supporting real-time features and background job processing.
+### Templates crafted for real projects
+A curated set of starting points I use to move fast without cutting corners, from landing pages to full product dashboards.
 
-**Tech:** Node.js · Express · TypeScript · Prisma · MongoDB · Redis · BullMQ · Socket.io · Stripe · FCM
+<div align="center">
 
-> Features: CCTV streaming, AC smart control, medicine reminders, meal planning, financial tracking, support feed, family & child management
+[![Live Demo](https://img.shields.io/badge/-Yoga-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yoga-barkat.vercel.app)
+[![Live Demo](https://img.shields.io/badge/-Chatbot-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aimotion-barkat.vercel.app)
+[![Live Demo](https://img.shields.io/badge/-Fintech-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fintech-barkat.vercel.app)
+[![Live Demo](https://img.shields.io/badge/-GYM-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gym-barkat.vercel.app)
+[![Live Demo](https://img.shields.io/badge/-Eyeflora-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eyeflora-barkat.vercel.app)
+[![Live Demo](https://img.shields.io/badge/-Wellarise-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wellarise-barkat.vercel.app)
 
-[![Server](https://img.shields.io/badge/-Server_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Barkat-Ullah/smart-home-management-server)
+</div>
 ---
 
 ### 2. ⚽ LeagueCore — Tournament Management System *(Individual)*
