@@ -83,6 +83,7 @@ A curated set of starting points I use to move fast without cutting corners, fro
 [![Live Demo](https://img.shields.io/badge/-Wellarise-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wellarise-barkat.vercel.app)
 
 </div>
+
 ---
 
 ### 2. ⚽ LeagueCore — Tournament Management System *(Individual)*
